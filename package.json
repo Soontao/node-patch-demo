@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.14"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
